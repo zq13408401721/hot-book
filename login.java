@@ -16,4 +16,10 @@ class Login{
     
 	print("手机号登录");
     }
+
+    public qqLogin(){
+    	print("qq登录");
+    }
+
+
 }
