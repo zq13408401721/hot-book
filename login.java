@@ -29,5 +29,9 @@ class Login{
 	print("QQ账号检测");
     }
 
+    public loginError(){
+	print("登录失败");
+    }
+
 
 }
