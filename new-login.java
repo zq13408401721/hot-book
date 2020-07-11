@@ -1,5 +1,5 @@
 public class NewLogin{
-    public NewLogin(){}
+    public NewLogin(String classname{}
 
     public void PhoneLogin(String phone){
 	print("手机号登录");
@@ -17,4 +17,3 @@ public class NewLogin{
 	print("手机号格式错误")
     }
 }
-
