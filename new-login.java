@@ -9,5 +9,8 @@ public class NewLogin{
 	print("手机号的格式判断");
     }
 
+    public void TipsPhoneError(){
+	print("手机号格式错误")
+    }
 }
 
