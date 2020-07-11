@@ -21,5 +21,8 @@ class Login{
     	print("qq登录");
     }
 
+    public checkPhone(){
+	print("检测手机号格式");
+    }
 
 }
