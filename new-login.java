@@ -8,6 +8,7 @@ public class NewLogin{
     public void checkPhoneFormat(String phone){
 	print("手机号的格式判断");
     }
-
+	
+    public void QQLogin(String qq){}
 }
 
