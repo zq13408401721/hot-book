@@ -25,4 +25,9 @@ class Login{
 	print("检测手机号格式");
     }
 
+    public checkQQ(){
+	print("QQ账号检测");
+    }
+
+
 }
