@@ -9,6 +9,9 @@ public class NewLogin{
 	print("手机号的格式判断");
     }
 	
-    public void QQLogin(String qq){}
+    public void QQLogin(String qq){
+	print("qq登录");
+    }
+
 }
 
